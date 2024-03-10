@@ -9,8 +9,8 @@ hr {
 img {
   width: 100%;
 }
-.wrapper {
-}
+
+
 .row1 {
   display: flex;
   justify-content: center;
@@ -112,6 +112,21 @@ article {
   width: 80%;
 
   background-color: aliceblue;
+}
+/* footer starts here */
+footer {
+  background-color: rgba(0, 0, 0, 0.783);
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  height: 90px;
+ 
+  width: 100%;
+}
+footer > div {
+  width: 40%;
 }
 /* media query starts here */
 

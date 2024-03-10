@@ -10,7 +10,6 @@ img {
   width: 100%;
 }
 
-
 .row1 {
   display: flex;
   justify-content: center;
@@ -122,7 +121,7 @@ footer {
   align-items: center;
   color: aliceblue;
   height: 90px;
- 
+
   width: 100%;
 }
 footer > div {
